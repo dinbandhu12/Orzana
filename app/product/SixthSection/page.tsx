@@ -126,7 +126,7 @@ const SixthSection = () => {
                     <div className='text-2xl font-semibold'> Set goals and drive alignment </div>
                         <div className='ml-6 space-y-4 text-xl'>
                             <div> • Save time on creating reports with a robust Charts template library </div>
-                            <div> • Track all of your team's projects in a single view with Portfolios </div>
+                            <div> • Track all of your teams projects in a single view with Portfolios </div>
                             <div> • Align your organization and inspire ownership with Goals </div>
                         </div>
                     </div>

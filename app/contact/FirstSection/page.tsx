@@ -4,6 +4,7 @@ import { useState } from "react";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import * as z from "zod";
+import Image from "next/image";
 
 
 import {
@@ -452,7 +453,7 @@ export default function FirstSection() {
            
                 <div className="">
               
-                    <img src="/videos/check.gif" className="h-28 w-28" />
+                    <Image src="/videos/check.gif" alt="gif" className="h-28 w-28" />
             
                     </div>
             
