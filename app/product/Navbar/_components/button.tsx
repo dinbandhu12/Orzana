@@ -57,7 +57,7 @@ const ActionButtons = () => {
             </div>
           </div>
           <Link href="/contact" className="">
-            Contact Sales
+            Contact Us
           </Link>
 
           <Button className="text-md" variant={"ghost"}>
